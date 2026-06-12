@@ -25,9 +25,11 @@ Computer Programming & Analysis student at Seneca Polytechnic.
 ### Playwright Automation Practice
 Automated web testing using Playwright.
 
+🔗 Repository: https://github.com/sb-lee-dev/playwright-practice
 ### Folio
 Portfolio dashboard application built with React.
 
+🔗 Repository: https://github.com/sb-lee-dev/Folio
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/seongbae-lee-a4a269382/
