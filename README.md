@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Seongbae Lee 👋
 
-<!--
-**sb-lee-dev/sb-lee-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Programming & Analysis student at Seneca Polytechnic.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in Software Development and Testing
+- Learning Playwright Test Automation
+- Strong foundation in Javascript, SQL, and Web Development (React)
+- Looking for Fall 2026 Co-op opportunities
+
+## Technical Skills
+
+- C++
+- SQL
+- React
+- JavaScript
+- HTML / CSS
+- Playwright
+- Git / GitHub
+- Jira
+
+## Featured Projects
+
+### Playwright Automation Practice
+Automated web testing using Playwright.
+
+### Folio
+Portfolio dashboard application built with React.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/seongbae-lee-a4a269382/
+
+Email: slee617seneca@gmail.com
